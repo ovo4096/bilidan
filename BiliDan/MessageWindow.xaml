@@ -1,0 +1,6 @@
+﻿<Window x:Class="BiliDan.MessageWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="弹幕消息框" SizeToContent="WidthAndHeight" MaxWidth="250" WindowStyle="None" AllowsTransparency="True" ShowInTaskbar="False" ResizeMode="NoResize" Topmost="True" Background="#B2007ACC" BorderThickness="1" Foreground="White" BorderBrush="#FF007ACC" ShowActivated="False" Loaded="Window_Loaded" LayoutUpdated="Window_LayoutUpdated">
+    <StackPanel Name="MessageList" />
+</Window>

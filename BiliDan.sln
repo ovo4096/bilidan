@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliDan.Live", "BiliDan.Live\BiliDan.Live.csproj", "{928D1DCD-63EF-4F9B-91A2-282BB2B4E158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliDan", "BiliDan\BiliDan.csproj", "{1E250DC9-59E5-4B50-9EC3-3BA1F9FEBC58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiliDanTest", "BiliDanTest\BiliDanTest.csproj", "{0921DC07-FF8F-4200-8168-15739502D45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928D1DCD-63EF-4F9B-91A2-282BB2B4E158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928D1DCD-63EF-4F9B-91A2-282BB2B4E158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928D1DCD-63EF-4F9B-91A2-282BB2B4E158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928D1DCD-63EF-4F9B-91A2-282BB2B4E158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E250DC9-59E5-4B50-9EC3-3BA1F9FEBC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E250DC9-59E5-4B50-9EC3-3BA1F9FEBC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E250DC9-59E5-4B50-9EC3-3BA1F9FEBC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E250DC9-59E5-4B50-9EC3-3BA1F9FEBC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0921DC07-FF8F-4200-8168-15739502D45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0921DC07-FF8F-4200-8168-15739502D45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0921DC07-FF8F-4200-8168-15739502D45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0921DC07-FF8F-4200-8168-15739502D45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
